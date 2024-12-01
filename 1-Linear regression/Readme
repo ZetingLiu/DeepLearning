@@ -1,3 +1,4 @@
-线性回归从零开始实现（不调用现有的深度学习框架）。
+从零开始实现线性回归，包括数据流水线、模型、损失函数、小批量随机梯度下降优化器，以及训练过程中的损失曲线绘制。
 
-Linear regression is implemented from scratch (without invoking existing deep learning frameworks).
+Linear regression implementation from scratch, including data pipeline, model, 
+loss function, mini-batch stochastic gradient descent optimizer, and loss curve plotting.
